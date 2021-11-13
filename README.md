@@ -1,2 +1,2 @@
 # eshopper
-an simple ecommerce website made with php
+an simple ecommerce website made with php(incomplete)
