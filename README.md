@@ -1,2 +1,2 @@
-# eshopper
-an simple ecommerce website made with php(incomplete)
+# MVC Framework - PHP
+A simple MVC Framework made with PHP
